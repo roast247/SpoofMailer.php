@@ -8,6 +8,6 @@
  <hr>
 Disclaimer: I am not resposible for any illegal actions with the use of my programs
   
-  If you would like to contact me, email me at roast247@protonmail.com
+  If you would like to contact me, email me at support@roast247.eu.org
 </h4>
 <h5 align="center"> Notice: This was the file of a thread I posted on HF a little bit ago. If you were sent a PM from some random account on HF, it was me</h5>
