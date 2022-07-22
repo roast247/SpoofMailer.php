@@ -7,7 +7,15 @@
  <img src="https://raw.githubusercontent.com/roast247/SpoofMailer.php/main/spoofmailer.php.png">
  <hr>
 Disclaimer: I am not resposible for any illegal actions with the use of my programs
+
+  If you would like to contact me, email me at https://roast247.eu.org/contact.php
+</h4>
+
+<h4 align="center">
+
   
-  If you would like to contact me, email me at support@roast247.eu.org
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=roast247&show_icons=true)
+
+
 </h4>
 <h5 align="center"> Notice: This was the file of a thread I posted on HF a little bit ago. If you were sent a PM from some random account on HF, it was me</h5>
